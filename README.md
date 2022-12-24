@@ -3,7 +3,9 @@
 ***Please Read Copyright Disclaimers***
 
 This objective of this Assignment is to build a Smart Home Controller. A set of predefined
-Java code is given, in this project the predefined will be finished along with additional code
+Java code is given, in this project the predefined will be finished along with additional code.
+This Project was done during ***September to December 2022*** and was only pushed to GitHub 
+when the project was finished.
 
 ## Project Description:
 
