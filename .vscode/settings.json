@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/SSDCS/1-Standards.jar",
+        "src/SSDCS/2-ClassLibrary-TempSensor.jar",
+        "src/SSDCS/3-ClassLibrary-Furnace.jar",
+        "src/SSDCS/4-ThermostatFrontEnd.jar",
+        "src/SSDCS/5-Scenario.jar"
+    ]
+}

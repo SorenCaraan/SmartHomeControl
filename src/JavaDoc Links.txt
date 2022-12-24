@@ -1,0 +1,4 @@
+1- http://www.yorku.ca/liaskos/teaching/ITEC3030/A1/Standard/
+2- http://www.yorku.ca/liaskos/teaching/ITEC3030/A1/OmnitempSensor/
+3- http://www.yorku.ca/liaskos/teaching/ITEC3030/A1/SaharaFurnace/
+4- http://www.yorku.ca/liaskos/teaching/ITEC3030/A1/ThermostatGUI/
