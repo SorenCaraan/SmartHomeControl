@@ -38,6 +38,6 @@ predefined with ***missing code***, filling in the code is required to complete 
 
 I give full credit to anything predefined to Professor Liaskos, this code rightfully belongs to him,
 I completed the project as an assignment for this Information Technology Course, the course however
-was taught by ***Professor Nahid Alimohammadi*** and I wanted to add this assignment to my Coding Experiences
+was taught by ***Professor Nahid Alimohammadi***
 
 - @author Soren Caraan
