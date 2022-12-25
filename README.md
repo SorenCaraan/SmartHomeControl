@@ -7,6 +7,8 @@ Java code is given, in this project the predefined will be finished along with a
 This Project was done during ***September to December 2022*** and was only pushed to GitHub 
 when the project was finished.
 
+Continuation Project: [***Advanced Home Control Project***](https://github.com/SorenCaraan/AdvancedHomeControlProject) 
+
 ## Project Description:
 
 In this assignment you will work on developing a Smart Home controller. The Controller
