@@ -11,9 +11,9 @@ Continuation Project: [***Advanced Home Control Project***](https://github.com/S
 
 ## Project Demonstration:
 
-[ITEC3030 Assignment 1 Video [YouTube]](https://youtu.be/FmJen8jJKCA)
+[Smart Home Control Project [YouTube]](https://youtu.be/zPE9YMrP-K0)
 
-[Rough Draft Demonstration](https://youtu.be/2k600-C0baU)
+[Rough Draft Demonstration 1](https://youtu.be/2k600-C0baU)
 
 ## Project Description:
 
