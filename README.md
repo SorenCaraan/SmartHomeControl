@@ -9,6 +9,10 @@ when the project was finished.
 
 Continuation Project: [***Advanced Home Control Project***](https://github.com/SorenCaraan/AdvancedHomeControlProject) 
 
+## Project Demonstration:
+
+[ITEC3030 Assignment 1 Video [YouTube]](https://youtu.be/FmJen8jJKCA)
+
 ## Project Description:
 
 In this assignment you will work on developing a Smart Home controller. The Controller
